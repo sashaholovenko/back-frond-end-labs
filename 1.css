@@ -145,6 +145,10 @@ img{
     background-color: #eee;
 }
 
+h2, h3 {
+    text-align: center;
+}
+
 h4 {
     text-align: center;
     font: 20px Courier bold;
