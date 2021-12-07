@@ -22,6 +22,17 @@ p {
     box-shadow: 0 3px 10px 3px rgba(0,0,0,0.15)
 }
 
+.lab-number {
+    font-size: medium;
+    text-align: center
+}
+
+.top-menu li.active { /* відображення конкретної сторінки */
+    background: rgb(0, 236, 79);
+    color: #fff;
+}
+
+
 .title {
     text-align: center;
     margin-left: 18px;
@@ -44,17 +55,10 @@ li.lists {
 
 }
 
-.top-menu li.active { /* это для текущей страницы */
-    background: #8b9fa8;
-    color: #fff;
-}
-
 .top-menu a {
     color: #000000;
     text-decoration: none;
 }
-
-
 
 
 .menu {
